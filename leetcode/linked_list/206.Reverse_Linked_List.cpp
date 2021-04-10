@@ -1,5 +1,7 @@
 /*
     https://leetcode-cn.com/problems/reverse-linked-list/
+
+    Given the head of a singly linked list, reverse the list, and return the reversed list.
 */
 
 /*
@@ -79,7 +81,7 @@ public:
 
 
 /*
-  参照https://leetcode.com/problems/reverse-linked-list/discuss/58125/In-place-iterative-and-recursive-Java-solution优化代码
+  参照 https://leetcode.com/problems/reverse-linked-list/discuss/58125/In-place-iterative-and-recursive-Java-solution  优化代码
   1. 不需要cur指针，直接使用head进行遍历
   2. 不需要head->next 置为NULL，直接将NewHead置NULL开始
 */
