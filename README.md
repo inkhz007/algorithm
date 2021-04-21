@@ -1,5 +1,7 @@
-# 排序
-## 冒泡排序
-## 插入排序
-## 归并排序
-## 快速排序
+# leetcode
+
+记录LeetCode刷题
+
+- BinaryTree 二叉树题目
+- LinkedList 链表
+
